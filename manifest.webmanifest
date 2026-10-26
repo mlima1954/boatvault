@@ -1,0 +1,14 @@
+{
+  "name": "BoatVault",
+  "short_name": "BoatVault",
+  "description": "Vessel management and captain's log — © 2026 Lako Holdings LLC",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f9",
+  "theme_color": "#102737",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
